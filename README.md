@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">👋 Hello, I'm Prince Patel</h1><br><br><p align="center">🚀 Beginner Developer | 🎯 C++ | 💻 Java | 🌐 Web Dev Learner |
+<h1 align="center">👋 Hello, I'm Prince Patel</h1><p align="center">🚀 Beginner Developer | 🎯 C++ | 💻 Java | 🌐 Web Dev Learner |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patelprince2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
