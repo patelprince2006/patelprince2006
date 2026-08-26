@@ -42,22 +42,6 @@
 
 ---
 
-### 📁 Projects Built
-
-#### 🚀 Cloud-Native MERN Platform
-- Designed and built a scalable full-stack web application with role-based auth, real-time web sockets, and RESTful APIs.
-- Containerized microservices using Docker and automated deployment with cloud infrastructure.
-
-#### 🤖 AI-Powered Full-Stack Assistant
-- Developed an interactive AI content generator leveraging modern LLM APIs and Node.js backend.
-- Implemented streaming responses, dynamic context caching, and persistent chat sessions in MongoDB.
-
-#### 🛒 Enterprise E-Commerce Engine
-- Engineered a full-featured online storefront with shopping cart management, payment gateway integration, and admin dashboard.
-- Optimized database indexing and query patterns to deliver sub-100ms API response times.
-
----
-
 ### 🎯 Current Focus
 
 - 🧠 Deepening expertise in **System Design** and **Distributed Systems**
