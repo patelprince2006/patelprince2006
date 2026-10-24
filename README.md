@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Engineering Student at **CSPIT, CHARUSAT** (Computer Engineering '28)
+- 🎓 **Education:** Computer Engineering Student at **CSPIT, CHARUSAT** (Computer Engineering '28)
 - 💻 **Expertise:** MERN Stack & Cloud Architecture
 - 🧠 **Focus:** Building high-performance full-stack applications & AI integrations
 - 🔭 **Current Work:** Scaling cloud-native services and mastering distributed systems
